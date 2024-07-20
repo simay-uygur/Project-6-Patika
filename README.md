@@ -14,6 +14,8 @@ An aircraft type may require a certain number of pilots.
 
 The class diagram for this system.
 
+Getter and setter methods are excluded to be more concise.
+
 ![diagram image](https://github.com/simay-uygur/Project-6-Patika/blob/main/imagep6.png)
 
 
